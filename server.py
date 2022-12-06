@@ -1,3 +1,5 @@
-count = 10
-print(count * 200000)
+numOfBlaBla = 10
+print(numOfBlaBla * 200000)
 print("🤴🏽👨🏽‍🦰👨🏽‍🦰👩🏽‍🦰🧓🏽👱🏽‍♀️")
+
+n = "bla bla".upper()
